@@ -16,6 +16,8 @@ namespace Serial_communication
         public Form1()
         {
             InitializeComponent();
+            comboBox_ports.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboBox_baudrate.DropDownStyle = ComboBoxStyle.DropDownList;
         }
 
         private void comboBox_ports_Click(object sender, EventArgs e)

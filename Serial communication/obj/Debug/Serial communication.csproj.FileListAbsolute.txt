@@ -7,3 +7,12 @@ c:\users\khaled\documents\visual studio 2015\Projects\Serial communication\Seria
 c:\users\khaled\documents\visual studio 2015\Projects\Serial communication\Serial communication\obj\Debug\Serial communication.exe
 c:\users\khaled\documents\visual studio 2015\Projects\Serial communication\Serial communication\obj\Debug\Serial communication.pdb
 C:\Users\Khaled\Documents\Visual Studio 2015\Projects\Serial communication\Serial communication\obj\Debug\Serial communication.csprojResolveAssemblyReference.cache
+C:\Users\Ilyas\Documents\GitHub\CsharpSerial\Serial communication\bin\Debug\Serial communication.exe.config
+C:\Users\Ilyas\Documents\GitHub\CsharpSerial\Serial communication\obj\Debug\Serial communication.exe
+C:\Users\Ilyas\Documents\GitHub\CsharpSerial\Serial communication\obj\Debug\Serial communication.pdb
+C:\Users\Ilyas\Documents\GitHub\CsharpSerial\Serial communication\bin\Debug\Serial communication.exe
+C:\Users\Ilyas\Documents\GitHub\CsharpSerial\Serial communication\bin\Debug\Serial communication.pdb
+C:\Users\Ilyas\Documents\GitHub\CsharpSerial\Serial communication\obj\Debug\Serial communication.csprojResolveAssemblyReference.cache
+C:\Users\Ilyas\Documents\GitHub\CsharpSerial\Serial communication\obj\Debug\Serial_communication.Form1.resources
+C:\Users\Ilyas\Documents\GitHub\CsharpSerial\Serial communication\obj\Debug\Serial_communication.Properties.Resources.resources
+C:\Users\Ilyas\Documents\GitHub\CsharpSerial\Serial communication\obj\Debug\Serial communication.csproj.GenerateResource.Cache
