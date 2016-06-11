@@ -1,0 +1,9 @@
+c:\users\khaled\documents\visual studio 2015\Projects\Serial communication\Serial communication\bin\Debug\Serial communication.exe.config
+c:\users\khaled\documents\visual studio 2015\Projects\Serial communication\Serial communication\bin\Debug\Serial communication.exe
+c:\users\khaled\documents\visual studio 2015\Projects\Serial communication\Serial communication\bin\Debug\Serial communication.pdb
+c:\users\khaled\documents\visual studio 2015\Projects\Serial communication\Serial communication\obj\Debug\Serial_communication.Form1.resources
+c:\users\khaled\documents\visual studio 2015\Projects\Serial communication\Serial communication\obj\Debug\Serial_communication.Properties.Resources.resources
+c:\users\khaled\documents\visual studio 2015\Projects\Serial communication\Serial communication\obj\Debug\Serial communication.csproj.GenerateResource.Cache
+c:\users\khaled\documents\visual studio 2015\Projects\Serial communication\Serial communication\obj\Debug\Serial communication.exe
+c:\users\khaled\documents\visual studio 2015\Projects\Serial communication\Serial communication\obj\Debug\Serial communication.pdb
+C:\Users\Khaled\Documents\Visual Studio 2015\Projects\Serial communication\Serial communication\obj\Debug\Serial communication.csprojResolveAssemblyReference.cache
